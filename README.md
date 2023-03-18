@@ -1,5 +1,5 @@
 
-# Hi, I'm Manoj Shrees ! ![hi](https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif)
+# Hi, I'm Manoj Shrees ! ![hi]([https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif](https://manojshrees.dev/Myprofile/assets/gifs/robot.gif))
 
 ## 🚀 About Me
 I'm a Mobile Developer and Web Developer specialist for 6+ years, experience in design, build, deployment, debugging, and maintenance of Android, hybrid mobile, and web applications, ensuring that all applications were developed using the SDLC Software Development lifecycle, distinct screens for tablet optimisation, and a clean layout. Applications were tested on a variety of devices to ensure compatibility. Clean, modular, and robust code was written in Java, Kotlin, flutter-dart, and XML with the Android SDK platform. Deploy an Angular web app to the server. During projects, I fixed bugs in code, design patterns, and DevOps.
