@@ -17,6 +17,7 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, experience in 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://manojshrees.dev/) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-shrees-a90130212/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manojshrsmagar/)
 
 
 ## Other Common Github Profile Sections
