@@ -7,11 +7,11 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, experience in 
 
 **Client:** Java, Kotlin, Angular, Flutter.
 
-**Server:** PHP, Go lang.
+**REST API:** PHP lARAVEL, Go lang.
 
 **Database:** MYSQL, SQL sever, Oracle SQL, FIrebase(noSQL).
 
-**Devops** AWS, Play store Integration, App Store Integration.
+**DevOps** AWS, Play Store Integration, App Store Integration.
 
 
 ## 🔗 Links
