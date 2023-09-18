@@ -5,13 +5,15 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, with experienc
 
 ## Tech Stack
 
-**PROGRAMING LANGUAGE:** Java, Kotlin, Angular, Flutter.
+**PROGRAMING LANGUAGE:** Java, Kotlin, Angular, DART.
+
+**FRAMEWORK:** Angular, FLUTTER.
 
 **REST API:** PHP lARAVEL, Go lang.
 
 **Database:** MYSQL, SQL sever, Oracle SQL, FIrebase(noSQL).
 
-**DevOps:** AWS, Play Store Integration, App Store Integration.
+**DevOps:** AWS, Web Hosting, Play Store Integration, App Store Integration.
 
 
 ## 🔗 Links
