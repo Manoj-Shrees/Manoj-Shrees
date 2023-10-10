@@ -35,8 +35,6 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, with experienc
 
 📫 How to reach me, https://manojshrees.dev/.
 
-###
-
 <img src="https://raw.githubusercontent.com/manoj-shrees/manoj-shrees/output/snake.svg" alt="Snake animation" />
 
 ###
