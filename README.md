@@ -1,4 +1,4 @@
-# Hi, ![hi](https://manojshrees.dev/Myprofile/assets/gifs/robot.gif) I'm Manoj Shrees !
+ # Hi, ![hi](https://manojshrees.dev/Myprofile/assets/gifs/robot.gif) I'm Manoj Shrees !
 ## 🚀 About Me
 I'm a Mobile Developer and Web Developer specialist for 6+ years, with experience in the design, build, deployment, debugging, and maintenance of Android, hybrid mobile, and web applications, ensuring that all applications were developed using the SDLC Software Development lifecycle, distinct screens for tablet optimization, and a clean layout. Applications were tested on a variety of devices to ensure compatibility. Clean, modular, and robust code was written in Java, Kotlin, Flutter-Dart, and XML with the Android SDK platform. Deploy an Angular web app to the server. During projects, I fixed bugs in code, design patterns, and DevOps.
 
@@ -37,10 +37,13 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, with experienc
 
 ###
 
-<img src="https://raw.githubusercontent.com/manoj-shrees/manoj-shrees/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=manoj-shrees&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
+<img src="https://raw.githubusercontent.com/manoj-shrees/manoj-shrees/output/snake.svg" alt="Snake animation" />
 
 ### 🏆 My motto and inspiration
 
