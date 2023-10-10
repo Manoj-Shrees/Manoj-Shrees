@@ -37,7 +37,7 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, with experienc
 
 
 
-<img src="https://github.com/Manoj-Shrees/Manoj-Shrees/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Manoj-Shrees/Manoj-Shrees/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
