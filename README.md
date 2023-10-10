@@ -35,15 +35,11 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, with experienc
 
 📫 How to reach me, https://manojshrees.dev/.
 
-###
-
-<div align="center">
+### <div align="center">
   <img src="https://streak-stats.demolab.com?user=manoj-shrees&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/manoj-shrees/manoj-shrees/output/snake.svg" alt="Snake animation" />
+### <img src="https://raw.githubusercontent.com/manoj-shrees/manoj-shrees/output/snake.svg" alt="Snake animation" />
 
 ### 🏆 My motto and inspiration
 
