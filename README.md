@@ -37,6 +37,8 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, with experienc
 
 
 
+### 
+
 ![snake gif](https://github.com/Manoj-Shrees/Manoj-Shrees/blob/output/github-contribution-grid-snake.gif)
 
 ###
@@ -46,7 +48,6 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, with experienc
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manoj-shrees&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
 ### 🏆 My motto and inspiration
 
