@@ -5,7 +5,7 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, with experienc
 
 ## Tech Stack
 
-**PROGRAMING LANGUAGE:** Java, Kotlin, Angular, Dart.
+**PROGRAMING LANGUAGE:** Java, Kotlin, Dart.
 
 **FRAMEWORK:** Angular, Flutter.
 
