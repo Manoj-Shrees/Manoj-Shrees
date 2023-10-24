@@ -25,7 +25,10 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, with experienc
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manojshrsmagar/)
 
 
-![Snake animation](https://github.com/manoj-shrees/manoj-shrees/blob/output/grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/manoj-shrees/manoj-shrees/blob/output/grid-snake-dark.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/manoj-shrees/manoj-shrees/blob/output/grid-snake.svg">
+</picture>
 
 
 ## Other Common GitHub Profile Sections
