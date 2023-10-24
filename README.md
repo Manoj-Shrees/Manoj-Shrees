@@ -1,6 +1,6 @@
  # Hi, ![hi](https://manojshrees.dev/Myprofile/assets/gifs/robot.gif) I'm Manoj Shrees !
 ## 🚀 About Me
-I'm a Mobile Developer and Web Developer specialist for 6+ years, with experience in the design, build, deployment, debugging, and maintenance of Android, hybrid mobile, and web applications, ensuring that all applications were developed using the SDLC Software Development lifecycle, distinct screens for tablet optimization, and a clean layout. Applications were tested on a variety of devices to ensure compatibility. Clean, modular, and robust code was written in Java, Kotlin, Flutter-Dart, and XML with the Android SDK platform. Deploy an Angular web app to the server. During projects, I fixed bugs in code, design patterns, and DevOps.
+I have been a Mobile Developer and Web Developer specialist for 6+ years, with experience in the design, build, deployment, debugging, and maintenance of Android, hybrid mobile, and web applications, ensuring that all applications were developed using the SDLC Software Development lifecycle, distinct screens for tablet optimization, and a clean layout. Applications were tested on a variety of devices to ensure compatibility. Clean, modular, and robust code was written in Java, Kotlin, Flutter-Dart, and XML with the Android SDK platform. Deploy an Angular web app to the server. During projects, I fixed bugs in code, design patterns, and DevOps.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,10 +31,12 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, with experienc
 </picture>
 
 
-## Other Common GitHub Profile Sections
+## Know More
 👩‍💻 I'm currently working on new Technology.
 
 🧠 I'm currently learning Flutter.
+
+🎧 I'm currently learning Jetpack Compose.
 
 👯‍♀️ I'm looking to collaborate on Android / hybrid Apps.
 
@@ -56,7 +58,7 @@ I'm a Mobile Developer and Web Developer specialist for 6+ years, with experienc
 
 ### 🏆 My motto and inspiration
 
-“If You Are Working on Something That You Really Care About, You Don’t Have to Be Pushed. The Vision Pulls You.” – Steve Jobs
+“If You Are Working on Something You Really Care About, You Don’t Have to Be Pushed. The Vision Pulls You.” – Steve Jobs
 
 
 
