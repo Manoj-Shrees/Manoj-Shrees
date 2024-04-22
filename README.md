@@ -47,11 +47,9 @@ I have been a Mobile Developer and Web Developer specialist for 6+ years, with e
 📫 How to reach me, https://manojshrees.dev/.
 
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manoj-shrees&show_icons=true&locale=en&layout=compact" alt="manoj-shrees" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manoj-shrees&show_icons=true&locale=en" alt="manoj-shrees" /></p>
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=manoj-shrees&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=manoj-shrees&show_icons=true&theme=radical)" alt="manoj-shrees" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-shrees&" alt="manoj-shrees" /></p>
 
