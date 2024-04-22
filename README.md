@@ -47,9 +47,9 @@ I have been a Mobile Developer and Web Developer specialist for 6+ years, with e
 📫 How to reach me, https://manojshrees.dev/.
 
 
-[![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-shrees&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-shrees&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[Manoj Shrees's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoj-shrees&show_icons=true&theme=ambient_gradient) ]
+![Manoj Shrees's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoj-shrees&show_icons=true&theme=ambient_gradient)
 
 
 
