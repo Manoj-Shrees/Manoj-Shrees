@@ -50,7 +50,6 @@ I have been a Mobile Developer and Web Developer specialist for 6+ years, with e
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-shrees&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-Shrees)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
