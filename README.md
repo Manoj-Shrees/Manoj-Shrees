@@ -52,7 +52,7 @@ I have been a Mobile Developer and Web Developer specialist for 6+ years, with e
 
 <br/>
 
-[![Manoj Shrees's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?manoj-shrees=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Manoj Shrees's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/manoj-shrees?cardType=level-alternate&theme=buefy&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <br/>
 
