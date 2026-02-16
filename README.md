@@ -224,8 +224,6 @@ I build products — not just features.
 
  <br/>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-shrees&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <br/>
 
